@@ -1,13 +1,3 @@
-<<<<<<< HEAD
 first
 
 second
-=======
-six
-
-seven
-
-eight
-
-nine
->>>>>>> f03e0c7... last
